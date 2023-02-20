@@ -6,11 +6,13 @@ This data science project uses Python and Streamlit tools to analyze data from B
 
 The data used was obtained from the [Kagle website](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol). This data contains information about games, teams, players, and referees and is provided in CSV format.
 
-Tools Used
-Python 3
-Pandas
-Streamlit
-Installation
+## Tools Used
+
+* Python 3
+* Pandas
+* Streamlit
+
+## Installation
 Clone the repository
 bash
 Copy code
