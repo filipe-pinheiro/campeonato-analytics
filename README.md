@@ -13,10 +13,13 @@ The data used was obtained from the [Kagle website](https://www.kaggle.com/datas
 * Streamlit
 
 ## Installation
-Clone the repository
-bash
-Copy code
+
+1.Clone the repository
+
+ˋˋˋ
 git clone https://github.com/your-username/project-name.git
+ˋˋˋ
+
 Install the dependencies
 Copy code
 pip install -r requirements.txt
