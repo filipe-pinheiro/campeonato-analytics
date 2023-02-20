@@ -14,28 +14,32 @@ The data used was obtained from the [Kagle website](https://www.kaggle.com/datas
 
 ## Installation
 
-1.Clone the repository
+1. Clone the repository
 
-ˋˋˋ
+~~~
 git clone https://github.com/your-username/project-name.git
-ˋˋˋ
+~~~
 
-Install the dependencies
-Copy code
+2. Install the dependencies
+
+~~~
 pip install -r requirements.txt
-Run the application
-Copy code
+~~~
+
+3. Run the application
+
+~~~
 streamlit run app.py
-How to Use
+~~~
+
+## How to Use
 When running the application, you will be directed to an initial page that presents a set of graphs and tables with basic information about the championship, such as the number of games, goals scored, and average goals per game. From there, you can use the filter and selection options available in the sidebar to view specific statistics about teams, players, referees, and matches.
 
 Some of the available visualizations include:
 
-Team rankings
-Team performance at home and away
-Top scorers of the championship
-Referees with the most games officiated
-Distribution of yellow and red cards
-Contributing
-Contributions are always welcome! If you would like to contribute to the project, simply create a new branch and send a pull request with your changes. Be sure to clearly describe what was changed or added.
+* Team rankings
+* Team performance at home and away
+* Top scorers of the championship
+* Referees with the most games officiated
+* Distribution of yellow and red cards
 
