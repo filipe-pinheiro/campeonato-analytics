@@ -2,8 +2,9 @@
 
 This data science project uses Python and Streamlit tools to analyze data from Brazilian Championship games between 2003 and 2022. The objective is to extract interesting insights and patterns from the data and present them in an interactive and intuitive way.
 
-Data
-The data used was obtained from the Brasileirão Data website. This data contains information about games, teams, players, and referees and is provided in CSV format.
+## Data
+
+The data used was obtained from the [Kagle website](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol). This data contains information about games, teams, players, and referees and is provided in CSV format.
 
 Tools Used
 Python 3
