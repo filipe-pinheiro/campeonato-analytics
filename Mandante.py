@@ -5,7 +5,7 @@ from functions import *
 st.title("Aproveitamento como mandante:")
 
 #Formatação do arquivo
-brasileirao_csv = pd.read_csv("campeonato-brasileiro-full.csv")
+brasileirao_csv = pd.read_csv("campeonato-brasileiro-full.csv") 
 brasileirao_csv['data'] = pd.to_datetime(brasileirao_csv['data'], format = '%d/%m/%Y')
 brasileirao_2017 = brasileirao_csv[brasileirao_csv['data'].dt.strftime('%Y') == '2017']
 rasileirao_2003_to_2019 = brasileirao_csv[brasileirao_csv['data'].isin(pd.date_range("2003-01-01", "2019-12-31"))]
